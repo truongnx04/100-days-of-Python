@@ -1,0 +1,2 @@
+# bỏ qua __pycache__ và file .pyc trong mọi thư mục con
+__pycache__/
