@@ -10,3 +10,4 @@ This repository documents my Python learning journey, from basic programming con
 | Day | Project | Concepts |
 |---|---|---|
 | Day 08 | Caesar Cipher | Functions, loops, strings, lists, user input |
+| Day 09 | Silent Auction | Dictionaries, functions, while loops, conditional statements, user input |
