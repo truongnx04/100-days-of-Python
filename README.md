@@ -1,1 +1,12 @@
-# 100-days-of-code-Python
+# Python Learning Journey
+
+A collection of Python exercises and projects built while learning Python programming.
+
+## About This Repository
+
+This repository documents my Python learning journey, from basic programming concepts to building professional-quality projects.
+## Projects
+
+| Day | Project | Concepts |
+|---|---|---|
+| Day 08 | Caesar Cipher | Functions, loops, strings, lists, user input |
